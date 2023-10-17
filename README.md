@@ -28,7 +28,7 @@ npm run dev
 npm run build
 ```
 
-#deploy
+# deploy
 > แก้ไข vite.conflig.js ให้มี base ตามด้วย "/ชื่อ ropo/"
 ``` bash
 npm run dev
