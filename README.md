@@ -27,17 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
-#� �B�P�N�_�H�e�l�l�o�W�o�r�l�d�
-�
-�#� �B�P�N�_�H�e�l�l�o�W�o�r�l�d�
-�
-�#� �B�P�N�_�H�e�l�l�o�W�o�r�l�d�
-�
-�#� �B�P�N�_�H�e�l�l�o�W�o�r�l�d�
-�
-�#� �B�P�N�_�H�e�l�l�o�W�o�r�l�d�
-�
-�# BPN_HelloWorld
 
 #deploy
 > แก้ไข vite.conflig.js ให้มี base ตามด้วย "/ชื่อ ropo/"
